@@ -1,1 +1,1 @@
-# Master_of_Analyst_Program
+# Master of Analyst Program
