@@ -1,8 +1,9 @@
 # Master of Analyst Program
 
-#### Description: "Master of Analyst" program could is a graduate-level program that focuses on training individuals in various aspects of data analysis, business analysis, financial analysis, or other analytical fields. These programs typically equip students with the skills and knowledge needed to collect, analyze, and interpret data to make informed decisions in their respective fields.  
-6	Courses  
-(1)	Fundamentals of Systematic Analysis  
+### Description: Master of Analyst program could is a graduate-level program that focuses on training individuals in various aspects of data analysis, business analysis, financial analysis, or other analytical fields. These programs typically equip students with the skills and knowledge needed to collect, analyze, and interpret data to make informed decisions in their respective fields.   
+
+#### 6	Courses  
+#### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
  Completed Staff Work, similar to data analysis, empowers decision makers to identify solutions to problems or address issues through the careful consideration of reasonable and workable alternatives.
 7 Step to CSW  
@@ -14,20 +15,21 @@
 -	6. Select or identify the solution you want to recommend based on the results of your objective analysis.  
 -	7. Develop a plan to implement the solution and the documents necessary to authorize the implementation.  
 
-(2)	Critical Thinking Skills  
+#### (2)	Critical Thinking Skills  
 Critical thinking examines assumptions, discerns hidden values, evaluates evidence, and assesses conclusions.  
 
-(3)	Research Methods  
+#### (3)	Research Methods  
 -	a. The Research Process   
 -	b. Three Research Approaches   
 -	c. Getting Started  
 -	d. Quantitative Research Methods   
 -	e. Qualitative Research Methods
   
-(4)	Effective Methods 
+#### (4)	Effective Methods 
 
-(5)	Writing Skills  
-(6)	Presenting Analytical Reports  
+#### (5)	Writing Skills  
+
+#### (6)	Presenting Analytical Reports  
 
 Utilize these courses to enhance my work and projects.   
 Research Question: Which company, AMD or Nvidia, is more likely to outperform the SP500 market in
