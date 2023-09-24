@@ -1,6 +1,6 @@
 # Master of Analyst Program
 
-### Description: Master of Analyst program could is a graduate-level program that focuses on training individuals in various aspects of data analysis, business analysis, financial analysis, or other analytical fields. These programs typically equip students with the skills and knowledge needed to collect, analyze, and interpret data to make informed decisions in their respective fields.   
+### Description: Master of Analyst program could is a graduate-level program that focuses on training individuals in various aspects of data analysis, business analysis, financial analysis, or other analytical fields. These programs typically equip students with the skills and knowledge needed to collect, analyze, and interpret data to make informed decisions in their respective fields.      
 
 #### 6	Courses  
 #### (1)	Fundamentals of Systematic Analysis  
