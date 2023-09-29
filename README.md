@@ -2,6 +2,11 @@
 
 ### Description: Master of Analyst program could is a graduate-level program that focuses on training individuals in various aspects of data analysis, business analysis, financial analysis, or other analytical fields. These programs typically equip students with the skills and knowledge needed to collect, analyze, and interpret data to make informed decisions in their respective fields.      
 
+# Prerequistes
+Excel 2016  
+Python 3.6+  
+Jupyter Notebook Python 3   
+
 #### 6	Courses  
 #### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
@@ -50,4 +55,8 @@ Data type: Comparison
 Variable/Instruments: Knowledge, Performance, Test (Calculate risk, average returns, Sharpe Ratio, etc.), Technical Analysis     
 Existing Data: Records/Documents Review  
 Data Need: Historical Price Data  
+
+## Authors  
+### * Tin Hang
+
 
