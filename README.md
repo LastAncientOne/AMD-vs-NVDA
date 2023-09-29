@@ -56,7 +56,7 @@ Variable/Instruments: Knowledge, Performance, Test (Calculate risk, average retu
 Existing Data: Records/Documents Review  
 Data Need: Historical Price Data  
 
-## Authors  
+## Author:   
 ### * Tin Hang
 
 
