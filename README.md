@@ -25,7 +25,7 @@ Critical thinking examines assumptions, discerns hidden values, evaluates eviden
 -	d. Quantitative Research Methods   
 -	e. Qualitative Research Methods
   
-#### (4)	Effective Methods 
+#### (4)	Effective Project Management  
 
 #### (5)	Writing Skills  
 
