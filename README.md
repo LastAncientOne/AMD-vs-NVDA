@@ -26,6 +26,14 @@ Critical thinking examines assumptions, discerns hidden values, evaluates eviden
 -	e. Qualitative Research Methods
   
 #### (4)	Effective Project Management  
+They have a solid grasp of project management, including the roles of project managers, common project management principles, various tools and techniques, and the phases of a project's life cycle, which encompass planning, execution, control, and closure.    
+Project Definition:  
+-	a. Defined Beginning and end
+-	b. Not a program
+-	c. Specific outcome
+-	d. Unique
+-	e. Risks
+-	f. Multiple tasks
 
 #### (5)	Writing Skills  
 
