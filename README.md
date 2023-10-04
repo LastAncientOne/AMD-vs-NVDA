@@ -41,6 +41,12 @@ Project Definition:
 -	f. Multiple tasks
 
 #### (5)	Writing Skills  
+-	a. Write clearly and concisely  
+-	b. Access your writing skills and improve writing  
+-	c. Write specifically for your audience   
+-	d. Write a powerful sentences and paragraph  
+-	e. Learn taking on various types of reports
+-	f. Learn to edits yourself and others
 
 #### (6)	Presenting Analytical Reports  
 
