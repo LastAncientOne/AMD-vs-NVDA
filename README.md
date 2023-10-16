@@ -49,18 +49,17 @@ Project Definition:
 -	f. Learn to edits yourself and others
 
 #### (6)	Presenting Analytical Reports  
-
-Utilize these courses to enhance my work and projects.   
-Research Question: Which company, AMD or Nvidia, is more likely to outperform the SP500 market in
+* Utilize these courses to enhance my work and projects.   
+* Research Question: Which company, AMD or Nvidia, is more likely to outperform the SP500 market in
 long term investment?  
-Independent Variable: Choice between AMD and Nvidia for long-term investment.  
-Dependent Variable: The relative performance of the chosen company's stock compared to the S&P 500   
+* Independent Variable: Choice between AMD and Nvidia for long-term investment.  
+* Dependent Variable: The relative performance of the chosen company's stock compared to the S&P 500   
 market index over the long term.  
-Stakeholders: Investors, Retail Traders, Investment Firms, CalPERS and CalSTR  
-Data type: Comparison  
-Variable/Instruments: Knowledge, Performance, Test (Calculate risk, average returns, Sharpe Ratio, etc.), Technical Analysis     
-Existing Data: Records/Documents Review  
-Data Need: Historical Price Data  
+* Stakeholders: Investors, Retail Traders, Investment Firms, CalPERS and CalSTR  
+* Data type: Comparison  
+* Variable/Instruments: Knowledge, Performance, Test (Calculate risk, average returns, Sharpe Ratio, etc.), Technical Analysis     
+* Existing Data: Records/Documents Review  
+* Data Need: Historical Price Data  
 
 ## Author:   
 ### * Tin Hang
