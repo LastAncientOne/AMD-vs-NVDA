@@ -1,6 +1,6 @@
-# Master of Analyst Program
+# AMD vs NVDA
 
-### Description: Master of Analyst program could is a graduate-level program that focuses on training individuals in various aspects of data analysis, business analysis, financial analysis, or other analytical fields. These programs typically equip students with the skills and knowledge needed to collect, analyze, and interpret data to make informed decisions in their respective fields.      
+### Description: Utilizing the insights and methodologies acquired through the Master of Analyst Program (MAP) to conduct a thorough analysis of stocks. The MAP is a postgraduate program designed to hone individuals' expertise in an array of domains, such as data analysis, business analysis, financial analysis, and various other analytical disciplines. These programs generally impart students with the requisite proficiency and knowledge essential for gathering, scrutinizing, and elucidating data to facilitate well-informed decision-making within their respective fields.  
 
 # Prerequistes
 Excel 2016  
