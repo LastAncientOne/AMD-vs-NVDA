@@ -1,7 +1,8 @@
 <img src="AMDvsNVDA.PNG">  
 <h1 align="center">AMD vs NVDA</h1>  
 
-### Description: Utilizing the insights and methodologies acquired through the Master of Analyst Program (MAP) to conduct a thorough analysis of stocks. The MAP is a postgraduate program designed to hone individuals' expertise in an array of domains, such as data analysis, business analysis, financial analysis, and various other analytical disciplines. These programs generally impart students with the requisite proficiency and knowledge essential for gathering, scrutinizing, and elucidating data to facilitate well-informed decision-making within their respective fields.  
+### Description:  
+#### Applying the comprehensive knowledge and methodologies gleaned from the Master of Analyst Program (MAP) to perform in-depth stock analysis. MAP, a postgraduate program, is meticulously designed to refine individuals' expertise across diverse domains like data analysis, business analysis, and financial analysis, among other analytical disciplines. Participants acquire the essential proficiency and knowledge crucial for effectively gathering, scrutinizing, and interpreting data, enabling informed decision-making within their respective professional domains.  
 
 # Prerequistes
 Excel 2016  
