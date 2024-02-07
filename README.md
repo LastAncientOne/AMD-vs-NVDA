@@ -9,6 +9,9 @@ Excel 2016
 Python 3.6+  
 Jupyter Notebook Python 3   
 
+## Investment Process Mapping  
+<img src="InvestmentProcessMapping.PNG"> 
+
 #### 6	Courses  
 #### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
