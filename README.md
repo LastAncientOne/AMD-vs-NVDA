@@ -12,8 +12,6 @@ Jupyter Notebook Python 3
 ## Investment Process Mapping  
 <img src="InvestmentProcessMapping.PNG">   
 
-<img src="BalancedScorecard.PNG">    
-
 #### 6	Courses  
 #### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
@@ -67,6 +65,8 @@ market index over the long term.
 * Variable/Instruments: Knowledge, Performance, Test (Calculate risk, average returns, Sharpe Ratio, etc.), Technical Analysis     
 * Existing Data: Records/Documents Review  
 * Data Need: Historical Price Data  
+
+<img src="BalancedScorecard.PNG">    
 
 ## Author:   
 ### * Tin Hang
