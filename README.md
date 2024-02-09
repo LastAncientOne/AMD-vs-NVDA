@@ -10,7 +10,9 @@ Python 3.6+
 Jupyter Notebook Python 3   
 
 ## Investment Process Mapping  
-<img src="InvestmentProcessMapping.PNG">  
+<img src="InvestmentProcessMapping.PNG">   
+
+<img src="BalancedScorecard.PNG">    
 
 #### 6	Courses  
 #### (1)	Fundamentals of Systematic Analysis  
