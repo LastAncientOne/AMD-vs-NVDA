@@ -27,7 +27,10 @@ R 3.0.0 +
 7. Develop a plan to implement the solution and the documents necessary to authorize the implementation.  
 
 #### (2)	Critical Thinking Skills  
-Critical thinking examines assumptions, discerns hidden values, evaluates evidence, and assesses conclusions.  
+* Critical thinking examines assumptions  
+* Discerns hidden values  
+* Evaluates evidence  
+* Assesses conclusions  
 
 #### (3)	Research Methods  
 * The Research Process   
