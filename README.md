@@ -17,12 +17,12 @@ R 3.0.0 +
 #### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
  Completed Staff Work, similar to data analysis, empowers decision makers to identify solutions to problems or address issues through the careful consideration of reasonable and workable alternatives.  
-#### 7 Step to CSW    
--	1. Identify, describe, or define the problems.  
--	2. Gather or compile information about the problem.  
--	3. Organize information for review & consideration.  
--	4. Analyze or evaluate the information.  
--	5. Develop, compile or generate alternatives.  
+#### 7 Step to CSW:      
+1. Identify, describe, or define the problems.  
+2. Gather or compile information about the problem.  
+3. Organize information for review & consideration.  
+4. Analyze or evaluate the information.  
+5. Develop, compile or generate alternatives.  
 -	6. Select or identify the solution you want to recommend based on the results of your objective analysis.  
 -	7. Develop a plan to implement the solution and the documents necessary to authorize the implementation.  
 
