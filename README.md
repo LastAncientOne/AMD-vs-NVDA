@@ -13,7 +13,7 @@ R 3.0.0 +
 ## Investment Process Mapping  
 <img src="InvestmentProcessMapping.PNG">   
 
-#### 6	Courses  
+### 6	Courses  
 #### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
  Completed Staff Work, similar to data analysis, empowers decision makers to identify solutions to problems or address issues through the careful consideration of reasonable and workable alternatives.  
@@ -23,8 +23,8 @@ R 3.0.0 +
 3. Organize information for review & consideration.  
 4. Analyze or evaluate the information.  
 5. Develop, compile or generate alternatives.  
--	6. Select or identify the solution you want to recommend based on the results of your objective analysis.  
--	7. Develop a plan to implement the solution and the documents necessary to authorize the implementation.  
+6. Select or identify the solution you want to recommend based on the results of your objective analysis.  
+7. Develop a plan to implement the solution and the documents necessary to authorize the implementation.  
 
 #### (2)	Critical Thinking Skills  
 Critical thinking examines assumptions, discerns hidden values, evaluates evidence, and assesses conclusions.  
