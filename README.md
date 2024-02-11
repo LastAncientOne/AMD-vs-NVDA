@@ -8,6 +8,7 @@
 Excel 2016  
 Python 3.6+  
 Jupyter Notebook Python 3   
+R 3.0.0 +  
 
 ## Investment Process Mapping  
 <img src="InvestmentProcessMapping.PNG">   
