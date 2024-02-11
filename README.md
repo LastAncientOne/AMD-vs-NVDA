@@ -16,8 +16,8 @@ R 3.0.0 +
 #### 6	Courses  
 #### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
- Completed Staff Work, similar to data analysis, empowers decision makers to identify solutions to problems or address issues through the careful consideration of reasonable and workable alternatives.
-7 Step to CSW  
+ Completed Staff Work, similar to data analysis, empowers decision makers to identify solutions to problems or address issues through the careful consideration of reasonable and workable alternatives.  
+#### 7 Step to CSW    
 -	1. Identify, describe, or define the problems.  
 -	2. Gather or compile information about the problem.  
 -	3. Organize information for review & consideration.  
