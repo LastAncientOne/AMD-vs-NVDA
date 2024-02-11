@@ -30,21 +30,21 @@ R 3.0.0 +
 Critical thinking examines assumptions, discerns hidden values, evaluates evidence, and assesses conclusions.  
 
 #### (3)	Research Methods  
--	a. The Research Process   
--	b. Three Research Approaches   
--	c. Getting Started  
--	d. Quantitative Research Methods   
--	e. Qualitative Research Methods
+* The Research Process   
+* Three Research Approaches   
+* Getting Started  
+* Quantitative Research Methods   
+* Qualitative Research Methods
   
 #### (4)	Effective Project Management  
 They have a solid grasp of project management, including the roles of project managers, common project management principles, various tools and techniques, and the phases of a project's life cycle, which encompass planning, execution, control, and closure.    
 Project Definition:  
--	a. Defined Beginning and end
--	b. Not a program
--	c. Specific outcome
--	d. Unique
--	e. Risks
--	f. Multiple tasks
+* Defined Beginning and end
+* Not a program
+* Specific outcome
+* Unique
+* Risks
+* Multiple tasks
 
 #### (5)	Writing Skills  
 -	a. Write clearly and concisely  
