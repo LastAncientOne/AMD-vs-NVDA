@@ -10,6 +10,12 @@ Python 3.6+
 Jupyter Notebook Python 3   
 R 3.0.0 +  
 
+# Data
+#### Yahoo Finance  
+https://finance.yahoo.com/quote/AMD?.tsrc=fin-srch    
+https://finance.yahoo.com/quote/NVDA?.tsrc=fin-srch  
+https://finance.yahoo.com/quote/%5ESPX?.tsrc=fin-srch   
+
 ## Investment Process Mapping  
 <img src="InvestmentProcessMapping.PNG">   
 
