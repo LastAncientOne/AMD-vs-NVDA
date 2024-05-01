@@ -20,9 +20,11 @@ https://finance.yahoo.com/quote/%5ESPX?.tsrc=fin-srch
 <img src="InvestmentProcessMapping.PNG">   
 
 ### 6	Courses  
+
 #### (1)	Fundamentals of Systematic Analysis  
 -	Completed Staff Work (CSW)  
- Completed Staff Work, similar to data analysis, empowers decision makers to identify solutions to problems or address issues through the careful consideration of reasonable and workable alternatives.  
+ Complete staff work refers to the comprehensive process of analyzing, evaluating, and presenting recommendations on a particular issue or problem within an organization. It involves thorough research, data collection, and consideration of various perspectives to develop well-informed proposals or solutions. This process typically includes defining the problem, gathering relevant information, conducting analysis, exploring alternative courses of action, and ultimately making recommendations to decision-makers. Complete staff work emphasizes attention to detail, critical thinking, and effective communication to ensure that decisions are based on sound reasoning and informed judgment, contributing to the overall effectiveness and efficiency of organizational decision-making processes.
+ 
 #### 7 Steps to CSW:      
 1. Identify, describe, or define the problems.  
 2. Gather or compile information about the problem.  
